@@ -49,7 +49,7 @@ export default {
                             </div>
                         </div>
                     </div>
-                    <div class="flex justify-center"><button class="p-2 border w-1/4 rounded-md bg-yellow-500 text-white">Rechercher</button></div>
+                    <div class="flex justify-center"><button class="p-2 border w-1/4 rounded-md bg-yellow-500 text-white font-semibold hover:bg-yellow-400">Rechercher</button></div>
                 </div>
             </div>
 </template>

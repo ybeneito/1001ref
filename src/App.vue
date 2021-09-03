@@ -11,6 +11,7 @@ export default {
 </script>
 
 <style>
+@import './assets/variables.css';
 h1 {
   color: #f2ba52;
   font-size: 50px;

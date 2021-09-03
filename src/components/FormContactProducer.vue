@@ -28,7 +28,7 @@
                                 </div>
                                 <div class="text-center mt-6">
                                     <button id="feedbackBtn"
-                                    class="bg-yellow-600 text-black text-center mx-auto active:bg-yellow-400 text-sm font-bold uppercase px-6 py-3 rounded shadow hover:shadow-lg outline-none focus:outline-none mr-1 mb-1"
+                                    class="bg-yellow-500 text-center mx-auto active:bg-yellow-400 text-sm font-bold uppercase px-6 py-3 rounded shadow hover:shadow-lg outline-none focus:outline-none mr-1 mb-1"
                                     type="submit" style="transition: all 0.15s ease 0s;">Envoyer
                                     </button>
                                 </div>
